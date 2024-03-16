@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "961556762197",
+    "project_id": "ahome-57b83",
+    "storage_bucket": "ahome-57b83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961556762197:android:4314ff7e8612fd34838edc",
+        "android_client_info": {
+          "package_name": "com.example.ahome"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr4ZaPAXdJHzUL6qGnw2C_Tvyp8A-TFm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
